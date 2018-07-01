@@ -1,0 +1,7 @@
+### Ignored Folders
+node_modules
+.vscode
+
+### Ignored Files
+GTaskList - Desktop.bmpr
+TaskListRenderer.js

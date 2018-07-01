@@ -1,0 +1,30 @@
+{
+  "name" : "gbrowser",
+  "version" : "0.1.0",
+  "description" : "A simple browser for daily user.",
+  "main" : "main.js",
+  "author" : "Michael Anthony Leal Costa",
+  "license" : "MIT",
+  "scripts" : {
+    "start" : "electron ."
+  },
+  "homepage" : "",
+  "repository" : {
+    "type" : "git",
+    "url" : ""
+  },
+  "bugs" : {
+    "url" : ""
+  },
+  "keywords" : [
+    "browser",
+    "gbrowser"
+  ],
+  "devDependencies" : {
+    "electron" : "^2.0.2"
+  },
+  "dependencies" : {
+    "jquery" : "^3.3.1",
+    "npm" : "^6.1.0"
+  }
+}
