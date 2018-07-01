@@ -1,3 +1,5 @@
-### Ignored Folders
+### Node Modules
 node_modules
+
+### Visual Studio Code
 .vscode
